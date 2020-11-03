@@ -114,7 +114,7 @@
 <web_page> a skos:Concept;
           skos:topConceptOf <scheme> ;
           skos:related <portal> ;
-          skos:prefLabel "Webseite"@de"@en .
+          skos:prefLabel "Webseite"@de .
 
 <worksheet> a skos:Concept;
           skos:topConceptOf <scheme> ;
