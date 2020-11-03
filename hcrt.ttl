@@ -114,13 +114,13 @@
 <web_page> a skos:Concept;
           skos:topConceptOf <scheme> ;
           skos:related <portal> ;
-          skos:prefLabel "Webseite"@de, "Web Page"@en .
+          skos:prefLabel "Webseite"@de"@en .
 
 <worksheet> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:prefLabel "Arbeitsmaterial"@de, "work material"@en ;
+          skos:prefLabel "Arbeitsmaterial"@de ;
           skos:scopeNote "zum Beispiel Arbeitsblatt"@de , "for example work sheet"@en.
 
 <other> a skos:Concept;
           skos:topConceptOf <scheme> ;
-          skos:prefLabel "Sonstiges"@de, "Other"@en .
+          skos:prefLabel "Sonstiges"@de .
