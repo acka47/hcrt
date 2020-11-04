@@ -119,7 +119,7 @@
 <worksheet> a skos:Concept;
           skos:topConceptOf <scheme> ;
           skos:prefLabel "Arbeitsmaterial"@de ;
-          skos:scopeNote "zum Beispiel Arbeitsblatt"@de .
+          skos:scopeNote "zum Beispiel Arbeitsblatt"@de, "for example worksheet"@en .
 
 <other> a skos:Concept;
           skos:topConceptOf <scheme> ;
